@@ -9,3 +9,7 @@ git push origin <remote branch>
 
 git checkout <branch name>
 git branch -d <branch name>
+
+git clone <url> 
+
+git commit -m <directory to be added/>
