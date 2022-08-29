@@ -1,3 +1,4 @@
-commands
-    open settings in Atom : Ctrl + ,
-    open terminal
+Atom text editor shortcuts:
+    open settings : Ctrl + ,
+    open terminal : Ctrl + `
+    ... 
