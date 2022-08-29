@@ -1,0 +1,3 @@
+commands
+    open settings in Atom : Ctrl + ,
+    open terminal
