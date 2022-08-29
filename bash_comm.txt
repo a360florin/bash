@@ -16,3 +16,5 @@ git commit -m <directory to be added/>
 
 git config --global user.email "email"
 git config --global user.name "name"
+
+git config -l  ## check git global credentials
