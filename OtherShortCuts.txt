@@ -2,4 +2,7 @@
   ## fast PrintScreen shoot
       Shift + PrintScreen
 
+  ## new terminal
+      Ctrl + Alt + T
+
   ## 
