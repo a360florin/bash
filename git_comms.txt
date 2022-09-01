@@ -18,3 +18,4 @@ git config --global user.email "email"
 git config --global user.name "name"
 
 git config -l  ## check git global credentials
+git config --global --edit ## edit the global config file
