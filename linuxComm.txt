@@ -1,0 +1,9 @@
+## change directory
+  cd
+  cd .
+  cd ..
+  cd ~/HomeDirectory/firstLevel/secondLevel
+## move / rename
+  mv file1 file2                    (in same level directory name changed)
+  mv file1 ~/FullPath               (move the file in other directory)
+  mv ~/FullPath1/file1 ~/FullPath2  (move from directory 1 to directory 2)
