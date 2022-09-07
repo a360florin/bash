@@ -10,4 +10,42 @@
 ## show folder content
   ls
   ls -la
-  
+  ls -ltr
+  dir
+  pwd                                (disply the path of the current directory)
+## date, hour
+  date
+## useful commands
+  df                                 (HDD space)
+  df -h                              (-h  human readable)
+  free                               (RAM space)
+  ps                                 (process status)
+  ps aux                             (process list)
+  uptime                             (running time)
+  w                                  (current logged user information)
+  passwd user_name                   (change user paswword)
+  exit
+  shutdown
+  mkdir name_of_newDirectory         (make new directory)
+  rmdir name_of_Directory            (remove/delete directory)
+  rm file_name                       (remove/delete files)
+  mv /FullPath/file1 /FullPath/file2 (move/rename)
+  cp /FullPath/file1 /FullPath/file2 (copy file)
+  cat file_name                      (show all lines from a file from begin)
+  tac file_name                      (show all lines from a file from end)
+  cat file1 file2                    (show all lines from combined 2 files)
+  cat file1 file2 >file3             (combined the 2 files in a created new file3)
+  head file1                         (show by default first 10 lines from file)
+  head -x file1                      (show x lines from file)
+  tail -x file1                      (show x lines from end of file)
+  grep "text to search" file1        (search text in file1 and displayed)
+  zip /FullPath/file.zip file1 file2 (zip file1, etc. in file.zip from FullPath)
+  unzip /FullPath/file.zip           (unzip file from path in the current location)
+  sudo -i                            (root user)
+  history                            (commands history)
+  history -c                         (clear all the previous history)
+  help
+  man command_name                   (user manual for any built-in Linux command)
+  clear                              (clear the screen of the current terminal)
+  whereis command_name               (display the path where specific built-in command is located)
+  whatis command_name                (display a brief description of a specific built-in command)
