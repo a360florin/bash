@@ -1,0 +1,9 @@
+## vpn activation command
+  sudo wg-quick up Interface-Name             (start the vpn)
+  sudo wg-quick down Interface-Name           (stop the vpn)
+  curl ifconfig.io                            (check the vpn .118)
+
+## prerequisites
+  (interface name is the .conf file from wireguard directory)
+  sudo apt install wireguard
+  sudo apt install resolvconf
