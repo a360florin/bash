@@ -49,3 +49,5 @@
   clear                              (clear the screen of the current terminal)
   whereis command_name               (display the path where specific built-in command is located)
   whatis command_name                (display a brief description of a specific built-in command)
+## fast download using multi channel
+  axel -n8 -a "url to file"          (fast download using multi channels 8, in this case)
