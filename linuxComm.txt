@@ -51,3 +51,4 @@
   whatis command_name                (display a brief description of a specific built-in command)
 ## fast download using multi channel
   axel -n8 -a "url to file"          (fast download using multi channels 8, in this case)
+ CTRL + r                            (search in commands with specific argument)
